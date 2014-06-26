@@ -36,3 +36,6 @@ test/htmlcov
 test.htmlcov/*
 
 build/*
+
+venv/
+venv
